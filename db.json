@@ -1,0 +1,52 @@
+{
+  "conferences": [
+    {
+      "id": 1,
+      "title": "Conference 1",
+      "place": "Lima, Perú",
+      "start": "2018-07-30",
+      "end": "2018-08-04",
+      "url": "http://conf.com",
+      "topics": [
+        "general",
+        "android"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Conference 2",
+      "place": "Bogota, Colombia",
+      "start": "2018-07-30",
+      "end": "2018-08-04",
+      "url": "http://conf.com",
+      "topics": [
+        "ios",
+        "swift"
+      ]
+    },
+    {
+      "title": "Conf 3",
+      "url": "http://asdsad.com",
+      "place": "Lima, Perú",
+      "start": "2019-01-01",
+      "end": "2019-01-04",
+      "topics": [
+        "general",
+        "next"
+      ],
+      "id": 3
+    }
+  ],
+  "topics": [
+    "general",
+    "android",
+    "ios",
+    "javascript",
+    "react",
+    "next",
+    "java",
+    "ruby",
+    "python",
+    "django"
+  ]
+}

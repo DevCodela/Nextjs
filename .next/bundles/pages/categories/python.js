@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/categories/python",function(){return{page:webpackJsonp([6],{263:function(e,t,n){e.exports=n(264)},264:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o=n(2),u=n.n(o);t.default=function(){return u.a.createElement("h1",null,"Python")}}},[263]).default}});
